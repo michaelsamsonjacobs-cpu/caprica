@@ -1,0 +1,101 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Position",
+    "description": "Schema for importing positions into Caprica AI",
+    "type": "object",
+    "required": [
+        "title",
+        "description",
+        "requirements",
+        "skills"
+    ],
+    "properties": {
+        "code": {
+            "type": "string",
+            "description": "Unique identifier for the position (e.g., MOS-11B, ENG-001)"
+        },
+        "title": {
+            "type": "string",
+            "description": "Job title"
+        },
+        "department": {
+            "type": "string",
+            "description": "Department or division"
+        },
+        "location": {
+            "type": "string",
+            "description": "Work location"
+        },
+        "description": {
+            "type": "string",
+            "description": "Full job description"
+        },
+        "requirements": {
+            "type": "string",
+            "description": "Job requirements (can include markdown)"
+        },
+        "skills": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "description": "Required skills"
+        },
+        "experienceMin": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Minimum years of experience"
+        },
+        "experienceMax": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Maximum years of experience"
+        },
+        "educationLevel": {
+            "type": "string",
+            "description": "Required education level"
+        },
+        "salaryMin": {
+            "type": "integer",
+            "description": "Minimum salary"
+        },
+        "salaryMax": {
+            "type": "integer",
+            "description": "Maximum salary"
+        },
+        "salaryType": {
+            "type": "string",
+            "enum": [
+                "hourly",
+                "annual"
+            ],
+            "default": "annual"
+        },
+        "matchWeights": {
+            "type": "object",
+            "properties": {
+                "skills": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                },
+                "experience": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                },
+                "aptitude": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                },
+                "education": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                }
+            },
+            "description": "Weights for matching algorithm (should sum to 1.0)"
+        }
+    }
+}

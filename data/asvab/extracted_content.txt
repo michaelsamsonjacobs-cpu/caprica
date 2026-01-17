@@ -1,0 +1,2190 @@
+﻿Found 12 ASVAB files
+
+
+============================================================
+FILE: ASVAB- Assembling Objects.docx
+============================================================
+Assembling Objects
+
+
+
+
+
+EASY
+
+
+
+
+
+Which piece fits into the square hole?
+
+Options: A square peg, a triangular peg, a circular peg, or a star-shaped peg.
+
+Answer: A square peg.
+
+What shape completes the pattern: triangle, circle, triangle, circle, _____?
+
+Options: Triangle, Square, Star, or Circle.
+
+Answer: Triangle.
+
+Which two pieces combine to form a rectangle?
+
+Options: A square and a square, two triangles, a circle and a square, or two circles.
+
+Answer: Two triangles.
+
+What piece is missing to complete a simple jigsaw puzzle with a straight edge?
+
+Options: A corner piece, a straight-edge piece, a circular piece, or a center piece.
+
+Answer: A straight-edge piece.
+
+Which shape can fit into a round hole?
+
+Options: A circle, a triangle, a star, or a square.
+
+Answer: A circle.
+
+Which two pieces combine to form a complete circle?
+
+Options: Two semicircles, two triangles, a square and a triangle, or a rectangle and a triangle.
+
+Answer: Two semicircles.
+
+What piece fits into a star-shaped hole?
+
+Options: A star-shaped peg, a circle peg, a triangle peg, or a square peg.
+
+Answer: A star-shaped peg.
+
+Which piece completes the puzzle: a straight line, a curved edge, a jagged piece, or a smooth corner?
+
+Answer: A curved edge.
+
+What is the correct way to assemble three rods to form a triangle?
+
+Options: Attach them end to end to form a closed shape, attach them to a single point, stack them, or place them side by side.
+
+Answer: Attach them end to end to form a closed shape.
+
+Which block can fit perfectly into a cube-shaped hole?
+
+Options: A sphere, a triangular prism, a cube, or a cylinder.
+
+Answer: A cube.
+
+What shape will you get if you combine two identical triangles along their longest side?
+
+Options: A rectangle, a square, a pentagon, or a trapezoid.
+
+Answer: A rectangle.
+
+Which side of a puzzle piece is most likely to fit into a curved slot?
+
+Options: A flat side, a sharp corner, a curved edge, or a star-shaped edge.
+
+Answer: A curved edge.
+
+Which of the following objects can perfectly fit into a cylindrical hole?
+
+Options: A cone, a cylinder, a cube, or a hexagon.
+
+Answer: A cylinder.
+
+What is the correct way to assemble a frame with four L-shaped pieces?
+
+Options: Align all pieces side by side, connect them to form a rectangle, stack them, or leave gaps between them.
+
+Answer: Connect them to form a rectangle.
+
+What shape will you get if you combine two identical semicircles?
+
+Options: A square, a triangle, a circle, or a star.
+
+Answer: A circle.
+
+Which two pieces combine to form a trapezoid?
+
+Options: A triangle and a square, two triangles with different base lengths, two rectangles, or a square and a circle.
+
+Answer: Two triangles with different base lengths.
+
+What is the correct way to assemble two cylindrical rods into an "X" shape?
+
+Options: Cross them at the center, stack them on top of each other, place them side by side, or connect them end to end.
+
+Answer: Cross them at the center.
+
+Which piece completes a triangle with one missing side?
+
+Op
+
+... [truncated]
+
+============================================================
+FILE: ASVAB- Auto and Shop Information.docx
+============================================================
+
+
+Auto and Shop Information
+
+
+
+EASY
+
+What tool is commonly used to tighten or loosen bolts and nuts?
+
+A) Hammer
+
+B) Wrench
+
+C) Saw
+
+D) Screwdriver
+
+Answer: B) Wrench
+
+What does the radiator in a car do?
+
+A) Provides electricity to the engine
+
+B) Keeps the engine cool
+
+C) Lubricates engine parts
+
+D) Starts the ignition system
+
+Answer: B) Keeps the engine cool
+
+What is the purpose of motor oil in an engine?
+
+A) Prevent overheating
+
+B) Lubricate moving parts
+
+C) Clean the fuel
+
+D) Charge the battery
+
+Answer: B) Lubricate moving parts
+
+What is the function of a spark plug in a car?
+
+A) To ignite the air-fuel mixture in the engine
+
+B) To pump fuel into the engine
+
+C) To control the brakes
+
+D) To cool the engine
+
+Answer: A) To ignite the air-fuel mixture in the engine
+
+What tool is used to cut wood in a straight line?
+
+A) Screwdriver
+
+B) Hand saw
+
+C) Pliers
+
+D) Wrench
+
+Answer: B) Hand saw
+
+What part of the car is responsible for converting the engine's power into motion?
+
+A) Transmission
+
+B) Radiator
+
+C) Exhaust
+
+D) Alternator
+
+Answer: A) Transmission
+
+What is the purpose of sandpaper?
+
+A) To tighten screws
+
+B) To smooth rough surfaces
+
+C) To fasten bolts
+
+D) To measure lengths
+
+Answer: B) To smooth rough surfaces
+
+Which tool is used to measure the length of an object?
+
+A) Screwdriver
+
+B) Tape measure
+
+C) Drill
+
+D) Chisel
+
+Answer: B) Tape measure
+
+What automotive part is responsible for filtering dirt and debris from the air entering the engine?
+
+A) Fuel filter
+
+B) Air filter
+
+C) Radiator
+
+D) Exhaust pipe
+
+Answer: B) Air filter
+
+Which type of screwdriver is used with a screw that has a cross-shaped indentation?
+
+A) Flathead screwdriver
+
+B) Phillips screwdriver
+
+C) Allen wrench
+
+D) Torque wrench
+
+Answer: B) Phillips screwdriver
+
+What tool would you use to drive nails into wood?
+
+A) Wrench
+
+B) Hammer
+
+C) Saw
+
+D) Screwdriver
+
+Answer: B) Hammer
+
+What is the main function of the battery in a car?
+
+A) To power the engine
+
+B) To store electrical energy
+
+C) To cool the engine
+
+D) To lubricate moving parts
+
+Answer: B) To store electrical energy
+
+What is the primary purpose of the alternator in a vehicle?
+
+A) To charge the battery
+
+B) To cool the engine
+
+C) To power the ignition system
+
+D) To lubricate moving parts
+
+Answer: A) To charge the battery
+
+What part of the car reduces the toxic emissions from the exhaust?
+
+A) Radiator
+
+B) Catalytic converter
+
+C) Alternator
+
+D) Fuel filter
+
+Answer: B) Catalytic converter
+
+What is the primary purpose of a car's brake system?
+
+A) To slow or stop the vehicle
+
+B) To improve fuel efficiency
+
+C) To stabilize the vehicle
+
+D) To provide power to the engine
+
+Answer: A) To slow or stop the vehicle
+
+What fluid is used to keep the engine from overheating?
+
+A) Motor oil
+
+B) Coolant
+
+C) Transmission fluid
+
+D) Brake fluid
+
+Answer: B) Coolant
+
+What type of tool is used to inflate a car tire?
+
+A) Air compressor
+
+B) Wrench
+
+C) Pliers
+
+D) Screwdriver
+
+Answer: A) Air compressor
+
+What is the purpose of a timing belt in an engine?
+
+A) To coo
+
+... [truncated]
+
+============================================================
+FILE: ASVAB- Electronics Information.docx
+============================================================
+Electronics Information (EI) 
+
+EASY
+
+
+
+
+
+1.
+
+Question:What is the function of a resistor in an electrical circuit?A. Increase current flowB. Reduce or limit current flowC. Store electrical energyD. Convert current into voltage
+
+
+
+2.
+
+Question:What unit is used to measure electrical current?A. VoltsB. WattsC. AmperesD. Ohms
+
+
+
+3.
+
+Question:What is the purpose of a fuse in an electrical circuit?A. To increase voltageB. To prevent overheating by breaking the circuit if current is too highC. To store electrical chargeD. To convert AC to DC
+
+
+
+4.
+
+Question:What is the name of the component that stores electrical energy in a circuit?A. TransistorB. CapacitorC. DiodeD. Inductor
+
+
+
+5.
+
+Question:What does a voltmeter measure?A. CurrentB. VoltageC. ResistanceD. Power
+
+
+
+6.
+
+Question:What type of current flows in only one direction?A. Alternating current (AC)B. Direct current (DC)C. Static currentD. Reverse current
+
+
+
+7.
+
+Question:What is the function of a diode in an electronic circuit?A. To amplify signalsB. To store chargeC. To allow current to flow in one direction onlyD. To reduce voltage
+
+
+
+8.
+
+Question:What unit is used to measure resistance?A. OhmsB. VoltsC. WattsD. Amperes
+
+
+
+9.
+
+Question:Which of the following materials is a good conductor of electricity?A. PlasticB. RubberC. CopperD. Glass
+
+
+
+10.
+
+Question:What does an inductor do in a circuit?A. Resists current flowB. Stores energy in a magnetic fieldC. Converts AC to DCD. Increases voltage
+
+
+
+11.
+
+Question:Which type of circuit has components connected so that current flows through only one path?A. Parallel circuitB. Series circuitC. Short circuitD. Open circuit
+
+
+
+12.
+
+Question:What is the purpose of a battery in an electrical circuit?A. To measure voltageB. To limit currentC. To store and supply electrical energyD. To convert AC to DC
+
+
+
+13.
+
+Question:What is the symbol for resistance in an electrical diagram?A. RB. VC. ID. W
+
+
+
+14.
+
+Question:Which device is used to step up or step down voltage?A. ResistorB. TransformerC. CapacitorD. Inductor
+
+
+
+15.
+
+Question:What does a light-emitting diode (LED) do?A. Converts electrical energy into lightB. Stores electrical chargeC. Measures currentD. Converts AC to DC
+
+
+
+16.
+
+Question:What is the primary purpose of a switch in a circuit?A. To measure currentB. To open or close the circuitC. To increase voltageD. To reduce resistance
+
+
+
+17.
+
+Question:What is the name of the unit used to measure electrical power?A. WattB. OhmC. VoltD. Ampere
+
+
+
+18.
+
+Question:What is the typical voltage of a household electrical outlet in the United States?A. 12 voltsB. 110-120 voltsC. 220-240 voltsD. 480 volts
+
+
+
+19.
+
+Question:What does an ohmmeter measure?A. VoltageB. CurrentC. ResistanceD. Power
+
+
+
+20.
+
+Question:What is a short circuit?A. A circuit with a broken connectionB. A circuit with a low-resistance path that bypasses the intended loadC. A circuit with too much resistanceD. A circuit with no power source
+
+
+
+21.
+
+Question:Which electronic component is used to amplif
+
+... [truncated]
+
+============================================================
+FILE: ASVAB- Mechanical Comprehension.docx
+============================================================
+
+
+Mechanical Comprehension
+
+
+
+EASY
+
+What is the purpose of a lever?
+
+A) To increase friction
+
+B) To lift or move objects using less force
+
+C) To measure weight
+
+D) To generate electricity
+
+Answer: B) To lift or move objects using less force
+
+Which type of simple machine is a ramp?
+
+A) Pulley
+
+B) Inclined plane
+
+C) Lever
+
+D) Wedge
+
+Answer: B) Inclined plane
+
+What does a pulley system do?
+
+A) Reduces the force needed to lift an object
+
+B) Converts potential energy to kinetic energy
+
+C) Measures torque
+
+D) Increases friction
+
+Answer: A) Reduces the force needed to lift an object
+
+What type of force causes an object to move in a circular path?
+
+A) Centripetal force
+
+B) Gravitational force
+
+C) Frictional force
+
+D) Buoyant force
+
+Answer: A) Centripetal force
+
+What is the purpose of gears in a machine?
+
+A) To increase speed or torque
+
+B) To store energy
+
+C) To create friction
+
+D) To measure weight
+
+Answer: A) To increase speed or torque
+
+What is the function of a spring in a mechanical system?
+
+A) To provide cushioning or absorb energy
+
+B) To reduce torque
+
+C) To generate electricity
+
+D) To measure pressure
+
+Answer: A) To provide cushioning or absorb energy
+
+Which simple machine is a seesaw an example of?
+
+A) Pulley
+
+B) Wedge
+
+C) Lever
+
+D) Wheel and axle
+
+Answer: C) Lever
+
+What happens when a force is applied to an object and it moves in the direction of the force?
+
+A) Friction occurs
+
+B) Work is done
+
+C) Gravity increases
+
+D) Energy is stored
+
+Answer: B) Work is done
+
+What is the purpose of a wheel and axle?
+
+A) To amplify force and reduce friction when moving objects
+
+B) To increase weight
+
+C) To slow down rotation
+
+D) To measure distance
+
+Answer: A) To amplify force and reduce friction when moving objects
+
+What is the role of friction in mechanical systems?
+
+A) To slow or stop motion between two surfaces
+
+B) To reduce energy
+
+C) To increase speed
+
+D) To amplify force
+
+Answer: A) To slow or stop motion between two surfaces
+
+What happens to the force needed to lift an object if the length of an inclined plane is increased?
+
+A) The force increases
+
+B) The force decreases
+
+C) The force remains the same
+
+D) The force doubles
+
+Answer: B) The force decreases
+
+What type of simple machine is a screwdriver?
+
+A) Wedge
+
+B) Lever
+
+C) Inclined plane
+
+D) Wheel and axle
+
+Answer: D) Wheel and axle
+
+What is the purpose of a fulcrum in a lever system?
+
+A) To support the lever and allow it to pivot
+
+B) To add friction to the lever
+
+C) To reduce the load
+
+D) To store energy
+
+Answer: A) To support the lever and allow it to pivot
+
+What is the main advantage of using a pulley system?
+
+A) It reduces friction
+
+B) It increases the force applied to lift an object
+
+C) It eliminates gravity
+
+D) It shortens the lifting distance
+
+Answer: B) It increases the force applied to lift an object
+
+What type of energy does a compressed spring have?
+
+A) Kinetic energy
+
+B) Chemical energy
+
+C) Potential energy
+
+D) Thermal energy
+
+Answer: C) Potential energy
+
+What type of simple machine is a kn
+
+... [truncated]
+
+============================================================
+FILE: ASVAB- Paragraph Comprehension.docx
+============================================================
+Paragraph Comprehension (PC) category:
+
+EASY
+
+Read the following passage and answer the question below:"The Amazon rainforest is home to countless species of plants and animals. It is often referred to as the lungs of the Earth because it produces a large amount of oxygen."Question: Why is the Amazon rainforest called the lungs of the Earth? 
+
+A) It produces oxygen
+
+B) It has many animals
+
+C) It absorbs sunlight
+
+D) It is very large(Correct Answer: A)
+
+
+
+Read the following passage and answer the question below:"Recycling helps reduce waste and conserve resources. Many materials, such as paper, plastic, and metal, can be recycled and used again."Question: What is one benefit of recycling? 
+
+A) It increases waste
+
+B) It conserves resources
+
+C) It destroys materials
+
+D) It causes pollution(Correct Answer: B)
+
+
+
+Read the following passage and answer the question below:"The Statue of Liberty is located in New York Harbor and was a gift from France to the United States. It symbolizes freedom and democracy."Question: What does the Statue of Liberty symbolize? 
+
+A) Friendship
+
+B) Freedom and democracy
+
+C) Power
+
+D) Wealth(Correct Answer: B)
+
+
+
+Read the following passage and answer the question below:"Rainbows are formed when sunlight passes through raindrops in the atmosphere. The light is bent, or refracted, creating a spectrum of colors."Question: How are rainbows formed? 
+
+A) By moonlight passing through clouds
+
+B) By sunlight passing through raindrops
+
+C) By lightning striking water
+
+D) By wind scattering light(Correct Answer: B)
+
+
+
+Read the following passage and answer the question below:"Dogs are loyal animals and are often referred to as 'man's best friend.' They can be trained to perform various tasks, such as guiding the blind or detecting explosives."Question: What is one task dogs can be trained to do? 
+
+A) Fly planes
+
+B) Guide the blind
+
+C) Write books
+
+D) Build houses(Correct Answer: B)
+
+
+
+Read the following passage and answer the question below:"The Grand Canyon, located in Arizona, is one of the most famous natural landmarks in the United States. It was carved by the Colorado River over millions of years."Question: What carved the Grand Canyon? 
+
+A) Wind
+
+B) The Colorado River
+
+C) Earthquakes
+
+D) Volcanoes(Correct Answer: B)
+
+
+
+Read the following passage and answer the question below:"A thermometer is a device used to measure temperature. It is commonly used in weather forecasting and medical applications."Question: What does a thermometer measure? 
+
+A) Pressure
+
+B) Temperature
+
+C) Distance
+
+D) Speed(Correct Answer: B)
+
+
+
+Read the following passage and answer the question below:"Butterflies undergo a transformation process called metamorphosis. They begin as caterpillars and eventually emerge as fully grown butterflies."Question: What is the process called when caterpillars turn into butterflies? 
+
+A) Photosynthesis
+
+B) Metamorphosis
+
+C) Evolution
+
+D) Respiration(Correct Answer: B)
+
+
+
+Read the following passage and answer the question belo
+
+... [truncated]
+
+============================================================
+FILE: ASVAB- Verbal Expression.docx
+============================================================
+Verbal Expression
+
+
+
+EASY
+
+
+
+What is the synonym of "happy"?
+
+Options: Sad, Joyful, Angry, Confused.
+
+Answer: Joyful.
+
+What is the opposite of "quick"?
+
+Options: Fast, Slow, Speedy, Agile.
+
+Answer: Slow.
+
+Choose the correct spelling:
+
+Options: Realy, Really, Reely, Reali.
+
+Answer: Really.
+
+Which word means the same as "big"?
+
+Options: Small, Tiny, Large, Narrow.
+
+Answer: Large.
+
+What is the plural form of "child"?
+
+Options: Childs, Childrens, Child, Children.
+
+Answer: Children.
+
+Choose the word that best completes the sentence: "She is a very ______ person."
+
+Options: Nice, Nicest, Nicely, Nicer.
+
+Answer: Nice.
+
+What is the synonym of "cold"?
+
+Options: Hot, Chilly, Warm, Boiling.
+
+Answer: Chilly.
+
+Which word is spelled correctly?
+
+Options: Accomodate, Accomadate, Accommodate, Accomodait.
+
+Answer: Accommodate.
+
+What is the opposite of "dark"?
+
+Options: Dim, Light, Shadow, Gloomy.
+
+Answer: Light.
+
+What does the word "fast" mean in the sentence: "The cheetah is a fast runner"?
+
+Options: Quick, Slow, Hungry, Tired.
+
+Answer: Quick.
+
+Which word means the same as "beautiful"?
+
+Options: Ugly, Lovely, Messy, Plain.
+
+Answer: Lovely.
+
+Choose the correct spelling:
+
+Options: Famalier, Familliur, Familiar, Familear.
+
+Answer: Familiar.
+
+What is the plural form of "tooth"?
+
+Options: Tooths, Teeth, Toothies, Teeths.
+
+Answer: Teeth.
+
+What is the synonym of "friendly"?
+
+Options: Hostile, Kind, Rude, Shy.
+
+Answer: Kind.
+
+Which word best completes the sentence: "The dog wagged its ______."
+
+Options: Tail, Tale, Toil, Tile.
+
+Answer: Tail.
+
+What is the opposite of "strong"?
+
+Options: Weak, Powerful, Mighty, Tough.
+
+Answer: Weak.
+
+Which word means the same as "angry"?
+
+Options: Happy, Calm, Mad, Quiet.
+
+Answer: Mad.
+
+What is the correct spelling?
+
+Options: Resteraunt, Restaurant, Restaurnt, Restarunt.
+
+Answer: Restaurant.
+
+What does the word "soft" mean in the sentence: "The pillow is soft"?
+
+Options: Hard, Fluffy, Rough, Loud.
+
+Answer: Fluffy.
+
+What is the synonym of "start"?
+
+Options: Begin, End, Stop, Pause.
+
+Answer: Begin.
+
+What is the opposite of "hot"?
+
+Options: Warm, Cold, Boiling, Sunny.
+
+Answer: Cold.
+
+Which word means the same as "smart"?
+
+Options: Intelligent, Silly, Lazy, Slow.
+
+Answer: Intelligent.
+
+Choose the correct spelling:
+
+Options: Definately, Definitely, Definitley, Defanitely.
+
+Answer: Definitely.
+
+What is the plural form of "mouse"?
+
+Options: Mice, Mouses, Mouse, Mousies.
+
+Answer: Mice.
+
+Which word best completes the sentence: "The sun is very ______ today"?
+
+Options: Bright, Dark, Dim, Cloudy.
+
+Answer: Bright.
+
+What is the synonym of "quick"?
+
+Options: Slow, Fast, Lazy, Heavy.
+
+Answer: Fast.
+
+What is the opposite of "happy"?
+
+Options: Joyful, Excited, Sad, Cheerful.
+
+Answer: Sad.
+
+Choose the correct spelling:
+
+Options: Suprise, Surprise, Surprice, Supprise.
+
+Answer: Surprise.
+
+Which word means the same as "quiet"?
+
+Options: Loud, Silent, Noisy, Rowdy.
+
+Answer: Silent.
+
+What is the plural form of "foot"?
+
+Options: Foots, Feet, Foote, Feets.
+
+Answer
+
+... [truncated]
+
+============================================================
+FILE: ASVAB- Word Knowledge_Paragraph Comprehension.docx
+============================================================
+Word Knowledge (WK)" and "Paragraph Comprehension (PC)"
+
+EASY
+
+
+
+ Word Knowledge 
+
+What does the word "enormous" mean?
+
+Options: Small, Tiny, Huge, Quick.
+
+Answer: Huge.
+
+What is the opposite of "gentle"?
+
+Options: Harsh, Soft, Kind, Careful.
+
+Answer: Harsh.
+
+Which word means the same as "laugh"?
+
+Options: Cry, Giggle, Yell, Mumble.
+
+Answer: Giggle.
+
+What does the word "silent" mean?
+
+Options: Loud, Quiet, Fast, Angry.
+
+Answer: Quiet.
+
+What is the synonym of "easy"?
+
+Options: Difficult, Simple, Hard, Complicated.
+
+Answer: Simple.
+
+What is the opposite of "brave"?
+
+Options: Heroic, Cowardly, Confident, Calm.
+
+Answer: Cowardly.
+
+What does "honest" mean?
+
+Options: Truthful, Dishonest, Loud, Unkind.
+
+Answer: Truthful.
+
+Which word means the same as "angry"?
+
+Options: Mad, Happy, Calm, Relaxed.
+
+Answer: Mad.
+
+What is the opposite of "fast"?
+
+Options: Slow, Quick, Rapid, Swift.
+
+Answer: Slow.
+
+What is the plural form of "cat"?
+
+Options: Cats, Caties, Cates, Cat.
+
+Answer: Cats.
+
+What is the synonym of "strong"?
+
+Options: Powerful, Weak, Small, Tiny.
+
+Answer: Powerful.
+
+What is the opposite of "sharp"?
+
+Options: Blunt, Pointed, Precise, Clear.
+
+Answer: Blunt.
+
+What does the word "thin" mean?
+
+Options: Thick, Slim, Heavy, Wide.
+
+Answer: Slim.
+
+What is the synonym of "happy"?
+
+Options: Sad, Joyful, Angry, Quiet.
+
+Answer: Joyful.
+
+What is the opposite of "large"?
+
+Options: Big, Huge, Small, Wide.
+
+Answer: Small.
+
+Which word means the same as "bright"?
+
+Options: Dim, Clear, Dull, Dark.
+
+Answer: Clear.
+
+What is the plural form of "man"?
+
+Options: Men, Mans, Manses, Menes.
+
+Answer: Men.
+
+What is the synonym of "angry"?
+
+Options: Mad, Calm, Tired, Sleepy.
+
+Answer: Mad.
+
+What is the synonym of "fast"?
+
+Options: Slow, Quick, Lazy, Quiet.
+
+Answer: Quick.
+
+What is the opposite of "clean"?
+
+Options: Neat, Dirty, Tidy, Organized.
+
+Answer: Dirty.
+
+What does the word "happy" mean?
+
+Options: Joyful, Angry, Sad, Bored.
+
+Answer: Joyful.
+
+What is the plural form of "mouse"?
+
+Options: Mouses, Mice, Mousies, Mouse.
+
+Answer: Mice.
+
+What is the synonym of "tall"?
+
+Options: Short, High, Wide, Tiny.
+
+Answer: High.
+
+What is the opposite of "soft"?
+
+Options: Smooth, Hard, Quiet, Flat.
+
+Answer: Hard.
+
+What does the word "bright" mean?
+
+Options: Dim, Dull, Shiny, Dark.
+
+Answer: Shiny.
+
+What is the synonym of "calm"?
+
+Options: Nervous, Angry, Peaceful, Loud.
+
+Answer: Peaceful.
+
+Which word means the opposite of "hot"?
+
+Options: Warm, Cold, Sunny, Fast.
+
+Answer: Cold.
+
+What is the plural form of "child"?
+
+Options: Children, Childs, Childrens, Child.
+
+Answer: Children.
+
+What is the synonym of "big"?
+
+Options: Small, Large, Thin, Fast.
+
+Answer: Large.
+
+What is the opposite of "cold"?
+
+Options: Hot, Cool, Chilly, Freezing.
+
+Answer: Hot.
+
+What does the word "quiet" mean?
+
+Options: Noisy, Loud, Silent, Heavy.
+
+Answer: Silent.
+
+What is the plural form of "box"?
+
+Options: Boxes, Boxies, Boxs, Boxen.
+
+Answer: Boxes.
+
+What is the synonym of "happy"?
+
+Options: Sad, Joyful, Angry, Tired.
+
+Answer: 
+
+... [truncated]
+
+============================================================
+FILE: ASVAB-Arithmetic Reasoning.docx
+============================================================
+
+
+
+
+ASVAB Arithmetic Reasoning (AR) Section
+
+
+
+Easy Questions (33)
+
+John has 3 apples and buys 5 more. How many apples does he have in total?
+
+A) 5
+
+B) 7
+
+C) 8
+
+D) 9(Correct Answer: C)
+
+If a pencil costs $0.50, how much do 4 pencils cost?
+
+A) $1.50
+
+B) $2.00
+
+C) $2.50
+
+D) $3.00(Correct Answer: B)
+
+A car travels 60 miles in 2 hours. What is the average speed?
+
+A) 30 mph
+
+B) 40 mph
+
+C) 50 mph
+
+D) 60 mph(Correct Answer: A)
+
+If Sarah has $20 and spends $7, how much money does she have left?
+
+A) $11
+
+B) $12
+
+C) $13
+
+D) $14(Correct Answer: B)
+
+What is 8 ├ù 7?
+
+A) 48
+
+B) 54
+
+C) 56
+
+D) 64(Correct Answer: C)
+
+Tom bought a book for $12 and a pen for $3. How much did he spend in total?
+
+A) $13
+
+B) $14
+
+C) $15
+
+D) $16(Correct Answer: C)
+
+If there are 24 students in a classroom and they are divided into 6 groups, how many students are in each group?
+
+A) 4
+
+B) 5
+
+C) 6
+
+D) 8(Correct Answer: C)
+
+If a watermelon weighs 10 pounds and a cantaloupe weighs 5 pounds, how much do they weigh together?
+
+A) 12 pounds
+
+B) 13 pounds
+
+C) 15 pounds
+
+D) 16 pounds(Correct Answer: C)
+
+What is half of 64?
+
+A) 16
+
+B) 24
+
+C) 32
+
+D) 48(Correct Answer: C)
+
+If a train ticket costs $15 and a bus ticket costs $10, how much more does the train ticket cost?
+
+A) $3
+
+B) $4
+
+C) $5
+
+D) $6(Correct Answer: C)
+
+A cake is cut into 12 slices. If 8 slices are eaten, how many slices are left?
+
+A) 3
+
+B) 4
+
+C) 5
+
+D) 6(Correct Answer: B)
+
+If a dozen eggs cost $4, how much does one egg cost?
+
+A) $0.25
+
+B) $0.30
+
+C) $0.33
+
+D) $0.50(Correct Answer: A)
+
+What is the sum of 18 and 27?
+
+A) 35
+
+B) 45
+
+C) 55
+
+D) 65(Correct Answer: B)
+
+If a chair costs $25 and a table costs $50, how much do they cost together?
+
+A) $60
+
+B) $65
+
+C) $70
+
+D) $75(Correct Answer: D)
+
+What is 10% of 200?
+
+A) 10
+
+B) 20
+
+C) 30
+
+D) 40(Correct Answer: B)
+
+A bag of apples weighs 6 pounds. If each apple weighs 2 pounds, how many apples are in the bag?
+
+A) 2
+
+B) 3
+
+C) 4
+
+D) 5(Correct Answer: B)
+
+What is the difference between 45 and 23?
+
+A) 21
+
+B) 22
+
+C) 23
+
+D) 24(Correct Answer: B)
+
+A rectangle has a length of 10 units and a width of 4 units. What is its perimeter?
+
+A) 14 units
+
+B) 28 units
+
+C) 30 units
+
+D) 40 units(Correct Answer: B)
+
+If a box contains 50 pencils and 20 are taken out, how many pencils remain in the box?
+
+A) 25
+
+B) 30
+
+C) 35
+
+D) 40(Correct Answer: D)
+
+What is 6 ├ù 9?
+
+A) 36
+
+B) 45
+
+C) 54
+
+D) 63(Correct Answer: C)
+
+If a person saves $5 each day, how much money will they save in 2 weeks?
+
+A) $50
+
+B) $60
+
+C) $70
+
+D) $80(Correct Answer: B)
+
+What is the product of 11 and 12?
+
+A) 121
+
+B) 130
+
+C) 132
+
+D) 144(Correct Answer: C)
+
+A pizza is cut into 8 slices. If 3 slices are eaten, what fraction of the pizza remains?
+
+A) 1/2
+
+B) 5/8
+
+C) 3/8
+
+D) 1/4(Correct Answer: B)
+
+What is 72 divided by 8?
+
+A) 6
+
+B) 8
+
+C) 9
+
+D) 12(Correct Answer: C)
+
+If a shirt costs $15 and a jacket costs $45, what is the total cost?
+
+A) $50
+
+B) $55
+
+C) $60
+
+D) $65(Correct Answer: C)
+
+If a train travels 300 miles in 5 hours, what is its average speed?
+
+A) 50 mph
+
+B
+
+... [truncated]
+
+============================================================
+FILE: ASVAB-General Science.docx
+============================================================
+ASVAB QUESTIONS
+
+
+
+
+
+ASVAB General Science (GS) Section
+
+
+
+Easy Questions (33)
+
+Which planet is known as the Red Planet?
+
+A) Venus
+
+B) Mars
+
+C) Jupiter
+
+D) Saturn(Correct Answer: B)
+
+What is the main gas found in the Earth's atmosphere?
+
+A) Oxygen
+
+B) Hydrogen
+
+C) Nitrogen
+
+D) Carbon Dioxide(Correct Answer: C)
+
+What organ in the human body pumps blood?
+
+A) Lungs
+
+B) Heart
+
+C) Liver
+
+D) Stomach(Correct Answer: B)
+
+Water freezes at what temperature in degrees Celsius?
+
+A) 0
+
+B) 32
+
+C) 100
+
+D) -10(Correct Answer: A)
+
+Which of these is a renewable energy source?
+
+A) Coal
+
+B) Solar Power
+
+C) Natural Gas
+
+D) Oil(Correct Answer: B)
+
+How many planets are in the Solar System?
+
+A) 7
+
+B) 8
+
+C) 9
+
+D) 10(Correct Answer: B)
+
+What is H2O commonly known as?
+
+A) Salt
+
+B) Water
+
+C) Sugar
+
+D) Oxygen(Correct Answer: B)
+
+Which part of a tree conducts water from the roots?
+
+A) Bark
+
+B) Xylem
+
+C) Phloem
+
+D) Cambium(Correct Answer: B)
+
+What do bees collect from flowers?
+
+A) Nectar
+
+B) Water
+
+C) Sap
+
+D) Dew(Correct Answer: A)
+
+What does the Sun provide to Earth?
+
+A) Light and Heat
+
+B) Water
+
+C) Oxygen
+
+D) Gravity(Correct Answer: A)
+
+Which organ is responsible for filtering blood?
+
+A) Heart
+
+B) Liver
+
+C) Kidneys
+
+D) Stomach(Correct Answer: C)
+
+What is the largest planet in our solar system?
+
+A) Earth
+
+B) Jupiter
+
+C) Saturn
+
+D) Uranus(Correct Answer: B)
+
+What is the boiling point of water in Celsius?
+
+A) 0
+
+B) 50
+
+C) 100
+
+D) 200(Correct Answer: C)
+
+Which is not a primary color?
+
+A) Red
+
+B) Blue
+
+C) Yellow
+
+D) Green(Correct Answer: D)
+
+Which animal is known for building dams?
+
+A) Otters
+
+B) Beavers
+
+C) Frogs
+
+D) Ducks(Correct Answer: B)
+
+What gas do plants produce during photosynthesis?
+
+A) Carbon Dioxide
+
+B) Nitrogen
+
+C) Oxygen
+
+D) Hydrogen(Correct Answer: C)
+
+Which part of the plant absorbs water and nutrients?
+
+A) Stem
+
+B) Leaves
+
+C) Roots
+
+D) Flowers(Correct Answer: C)
+
+What is the smallest particle of an element?
+
+A) Molecule
+
+B) Atom
+
+C) Proton
+
+D) Electron(Correct Answer: B)
+
+What natural phenomenon is measured by the Richter scale?
+
+A) Hurricanes
+
+B) Tornadoes
+
+C) Earthquakes
+
+D) Tsunamis(Correct Answer: C)
+
+What does a thermometer measure?
+
+A) Pressure
+
+B) Temperature
+
+C) Volume
+
+D) Speed(Correct Answer: B)
+
+Which metal is liquid at room temperature?
+
+A) Mercury
+
+B) Iron
+
+C) Gold
+
+D) Copper(Correct Answer: A)
+
+What is the Earth's only natural satellite?
+
+A) Mars
+
+B) The Moon
+
+C) The Sun
+
+D) Jupiter(Correct Answer: B)
+
+Which vitamin is produced when a person is exposed to sunlight?
+
+A) Vitamin A
+
+B) Vitamin C
+
+C) Vitamin D
+
+D) Vitamin E(Correct Answer: C)
+
+What is the chemical formula for table salt?
+
+A) NaCl
+
+B) H2O
+
+C) CO2
+
+D) CH4(Correct Answer: A)
+
+How many bones are in the adult human body?
+
+A) 200
+
+B) 206
+
+C) 212
+
+D) 220(Correct Answer: B)
+
+Which gas do humans need to breathe?
+
+A) Oxygen
+
+B) Carbon Dioxide
+
+C) Nitrogen
+
+D) Helium(Correct Answer: A)
+
+Which planet is the hottest in our solar system?
+
+A) Venus
+
+B) Mercury
+
+C) Mars
+
+D) Jupiter(Correct Answer: A)
+
+
+
+... [truncated]
+
+============================================================
+FILE: ASVAB-Mathematics Knowledge.docx
+============================================================
+ΓÇ£Mathematics KnowledgeΓÇ¥ (MK) 
+
+EASY
+
+1.
+
+Question:What is 12├ù512 \times 5?A. 50B. 55C. 60D. 65
+
+
+
+2.
+
+Question:What is 15+8ΓêÆ315 + 8 - 3?A. 18B. 20C. 22D. 25
+
+
+
+3.
+
+Question:What is the value of 323^2?A. 6B. 9C. 12D. 15
+
+
+
+4.
+
+Question:If x=5x = 5, what is 2x+32x + 3?A. 8B. 10C. 13D. 15
+
+
+
+5.
+
+Question:What is the greatest common factor (GCF) of 16 and 24?A. 4B. 6C. 8D. 12
+
+
+
+6.
+
+Question:What is the area of a rectangle with a length of 7 and a width of 3?A. 10B. 14C. 21D. 24
+
+
+
+7.
+
+Question:What is the solution to 7x=217x = 21?A. x=2x = 2B. x=3x = 3C. x=7x = 7D. x=10x = 10
+
+
+
+8.
+
+Question:Simplify 8+(6├╖2)8 + (6 \div 2).A. 7B. 9C. 11D. 14
+
+
+
+9.
+
+Question:What is 25% of 40?A. 8B. 10C. 15D. 20
+
+
+
+10.
+
+Question:What is the perimeter of a square with a side length of 5?A. 10B. 15C. 20D. 25
+
+
+
+11.
+
+Question:A triangle has sides of 6, 8, and 10. What is its perimeter?A. 20B. 22C. 24D. 26
+
+
+
+12.
+
+Question:What is 45├╖545 \div 5?A. 5B. 7C. 9D. 10
+
+
+
+13.
+
+Question:What is 9+6├ù29 + 6 \times 2?A. 21B. 18C. 30D. 33
+
+
+
+14.
+
+Question:If x=10x = 10, what is xΓêÆ7x - 7?A. 1B. 2C. 3D. 4
+
+
+
+15.
+
+Question:What is the least common multiple (LCM) of 4 and 6?A. 12B. 18C. 24D. 36
+
+
+
+16.
+
+Question:What is the square root of 6464?A. 6B. 7C. 8D. 9
+
+
+
+17.
+
+Question:A rectangle has a length of 12 and a width of 4. What is its perimeter?A. 32B. 24C. 20D. 16
+
+
+
+18.
+
+Question:What is 3x+4=133x + 4 = 13? Solve for xx.A. x=3x = 3B. x=4x = 4C. x=5x = 5D. x=6x = 6
+
+
+
+19.
+
+Question:Simplify 20ΓêÆ(6+4)20 - (6 + 4).A. 6B. 10C. 12D. 14
+
+
+
+20.
+
+Question:What is 0.5+0.750.5 + 0.75?A. 1.0B. 1.2C. 1.25D. 1.5
+
+
+
+21.
+
+Question:How many sides does a pentagon have?A. 3B. 4C. 5D. 6
+
+
+
+22.
+
+Question:If a train travels 60 miles in 2 hours, what is its average speed?A. 30 miles per hourB. 60 miles per hourC. 90 miles per hourD. 120 miles per hour
+
+23.
+
+Question:What is 14├ù314 \times 3?A. 36B. 39C. 42D. 45
+
+
+
+24.
+
+Question:Simplify 18├╖3+418 \div 3 + 4.A. 6B. 8C. 10D. 12
+
+
+
+25.
+
+Question:What is 727^2 (7 squared)?A. 14B. 21C. 49D. 56
+
+
+
+26.
+
+Question:What is the value of 5x5x when x=4x = 4?A. 15B. 20C. 25D. 30
+
+
+
+27.
+
+Question:What is the sum of the angles in a triangle?A. 90┬░B. 180┬░C. 270┬░D. 360┬░
+
+
+
+28.
+
+Question:If a circle has a diameter of 10, what is its radius?A. 2B. 5C. 10D. 15
+
+
+
+29.
+
+Question:What is the greatest common factor (GCF) of 20 and 30?A. 5B. 10C. 15D. 20
+
+
+
+30.
+
+Question:A square has an area of 64. What is the length of one side?A. 6B. 8C. 10D. 12
+
+
+
+31.
+
+Question:What is 15ΓêÆ8+415 - 8 + 4?A. 9B. 11C. 13D. 15
+
+
+
+32.
+
+Question:If 2x=162x = 16, what is the value of xx?A. 4B. 6C. 8D. 10
+
+
+
+33.
+
+Question:How many centimeters are in a meter?A. 10B. 100C. 1,000D. 10,000
+
+
+
+
+
+MEDIUM
+
+
+
+1.
+
+Question:What is the value of 3x+5=203x + 5 = 20?A. x=4x = 4B. x=5x = 5C. x=6x = 6D. x=7x = 7
+
+
+
+2.
+
+Question:Simplify: (42+6)├╖2(4^2 + 6) \div 2.A. 6B. 10C. 11D. 14
+
+
+
+3.
+
+Question:What is the least common multiple (LCM) of 8 and 12?A. 12B. 16C. 24D. 36
+
+
+
+4.
+
+Question:If the perimeter of a rectangle is 24 
+
+... [truncated]
+
+============================================================
+FILE: OPERATION ASVAB Doc.docx
+============================================================
+
+
+OPERATION ASVAB
+
+Overview
+
+OPERATION ASVAB is a dynamic and interactive 10-question test designed to reflect the 10 sections of the U.S. ASVAB. This project aims to provide fun, engaging, and challenging practice questions for candidates preparing for the ASVAB, helping them gauge their knowledge and readiness.
+
+Features
+
+Question Categories: 
+
+The test questions are categorized into three difficulty levels: 
+
+Easy (33 questions)
+
+Medium (33 questions)
+
+Hard (33 questions)
+
+Dynamic Difficulty Progression: 
+
+Candidates begin at the easy level.
+
+A correct answer moves the candidate to the medium level.
+
+If a candidate gets two questions wrong, there is a hard drop back to the lower level.
+
+Question Generation: 
+
+The system generates 99 example questions in each of the 10 sections for comprehensive practice.
+
+Performance Tracking: 
+
+At the end of the test, candidates will receive a breakdown of: 
+
+The number of questions they got right at each difficulty level.
+
+An estimated percentile score to show how they compare to others.
+
+Sections Covered
+
+The test includes practice questions for the following ASVAB sections:
+
+Word Knowledge (WK)
+
+Paragraph Comprehension (PC)
+
+Arithmetic Reasoning (AR)
+
+Mathematics Knowledge (MK)
+
+General Science (GS)
+
+Mechanical Comprehension (MC)
+
+Electronics Information (EI)
+
+Auto Information (AI)
+
+Shop Information (SI)
+
+Assembling Objects (AO)
+
+How It Works
+
+Start the Test: 
+
+The candidate begins answering questions at the easy level.
+
+Dynamic Level Adjustment: 
+
+Answer correctly to advance to the next difficulty level.
+
+Answer two questions wrong to be dropped back to the previous difficulty.
+
+Completion and Results: 
+
+Once completed, the test provides a performance summary including: 
+
+The number of questions answered correctly at each difficulty.
+
+An estimated percentile based on overall performance.
+
+Example Workflow
+
+A candidate starts with easy questions.
+
+After answering correctly: 
+
+Progresses to medium level.
+
+Incorrect answers trigger a hard drop back to the easy or medium level depending on their progress.
+
+Results include the total number of questions answered correctly in easy, medium, and hard categories.
+
+Goal
+
+The purpose of OPERATION ASVAB is to create an engaging way for high school and college candidates to practice ASVAB sections and to discover their percentile.
+
+Installation
+
+Download or clone this repository.
+
+Open the application and begin the test.
+
+Contribution
+
+Contributions are welcome! To contribute:
+
+Fork the repository.
+
+Submit a pull request with your improvements or additional content.
+
+License
+
+This project is licensed under Joint Operations for Enlistment.
+
+
+
+
+
+... [truncated]
+
+============================================================
+FILE: Operation ASVAB.docx
+============================================================
+PROMPT
+
+
+
+Pretend you're a military recruiter and you want to estimate someone's ASVAB in a unique and creative manner. you create a vignette that is like a ΓÇ£choose your own adventureΓÇ¥, where people can pick a role based on typical military jobs or MOS and then they have to make choices to move forward. 
+
+
+
+When they answer correctly or optimally, we record a correct answer. At the end of the game, we know what type of military job they should get as well as an estimated ASVAB percent tile. Make it fun and engaging and like a military story. 
+
+
+
+---------------
+
+Operation ASVAB: Choose Your Military Adventure
+
+Mission Briefing: Welcome, recruit! Today, you embark on a thrilling journey through the world of military careers. Your mission is to navigate through challenging scenarios that reflect real-world military roles. The choices you make will help determine your ideal job in the armed forces and estimate your ASVAB percentile. Choose wisely, stay sharp, and let's see where you belong in the ranks!
+
+
+
+Step 1: Choose Your Military Role
+
+Combat Specialist (Infantry, Special Forces)
+
+Technical Expert (Cybersecurity, Engineering)
+
+Logistics Coordinator (Supply Chain, Transportation)
+
+Medical Support (Combat Medic, Nursing)
+
+Intelligence Operative (Analysis, Reconnaissance)
+
+
+
+Step 2: The Adventure Begins
+
+1. Combat Specialist
+
+Scenario: You and your squad are pinned down by enemy fire in an urban environment. Your commanding officer is incapacitated, and it's up to you to take charge.
+
+A. Order a tactical retreat and regroup at a safe location. B. Call for artillery support and hold your position. C. Flank the enemy using surrounding buildings and eliminate the threat.
+
+(Correct Answer: C - Strategic thinking and leadership under pressure.)
+
+
+
+2. Technical Expert
+
+Scenario: A cyberattack threatens your unitΓÇÖs communications. The encrypted codes are compromised, and you must act quickly.
+
+A. Shut down all systems and go offline to prevent further infiltration. B. Identify the source of the breach and implement a countermeasure. C. Ignore the attack and continue operations as usual.
+
+(Correct Answer: B - Problem-solving and cybersecurity expertise.)
+
+
+
+3. Logistics Coordinator
+
+Scenario: A critical resupply convoy is running late, and frontline units are running low on ammunition and fuel.
+
+A. Prioritize the resupply based on unit needs and available assets. B. Send an urgent distress call for aerial resupply assistance. C. Divert non-essential resources to the convoy to expedite delivery.
+
+(Correct Answer: A - Decision-making and resource management.)
+
+
+
+4. Medical Support
+
+Scenario: During a field mission, a fellow soldier is injured with a deep leg wound. You must act quickly.
+
+A. Apply a tourniquet and evacuate the soldier immediately. B. Clean the wound, apply pressure, and monitor for shock. C. Carry the soldier to the nearest aid station without treatment.
+
+(Correct Answer: A - Quick medical intervention saves lives.)
+
+
+
+5. Intelligence Operat
+
+... [truncated]

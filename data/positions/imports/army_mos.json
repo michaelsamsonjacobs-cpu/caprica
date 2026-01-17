@@ -1,0 +1,652 @@
+[
+  {
+    "code": "00B",
+    "title": "Diver",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/00B/mos/1",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "00E",
+    "title": "Recruiter",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/00E/mos/2",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "00H",
+    "title": "Enlisted Aide",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/00H/mos/3",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "00R",
+    "title": "Recruiter/Retention NCO",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/00R/mos/4",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "00Z",
+    "title": "Command Sergeant Major Nominative",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/00Z/mos/5",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01A",
+    "title": "Officer Generalist",
+    "rank": "Officer",
+    "url": "https://mosdb.com/army/01A/mos/19",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01B",
+    "title": "Electrical-Electronic Engineering Assistant",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/01B/mos/20",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01B",
+    "title": "Aviation/Infantry/Armor/Military Intelligence Immaterial",
+    "rank": "Officer",
+    "url": "https://mosdb.com/army/01B/mos/21",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01C",
+    "title": "Mechanical Engineering Assistant",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/01C/mos/22",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01C",
+    "title": "Chemical/Engineer/Military Police Immaterial",
+    "rank": "Officer",
+    "url": "https://mosdb.com/army/01C/mos/23",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01D",
+    "title": "Civil Engineering Assistant",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/01D/mos/24",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01D",
+    "title": "Financial Management/Adjutant General immaterial",
+    "rank": "Officer",
+    "url": "https://mosdb.com/army/01D/mos/25",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01E",
+    "title": "Mathematics-Statistics Assistant",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/01E/mos/26",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01F",
+    "title": "Physical Sciences Assistant",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/01F/mos/27",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01G",
+    "title": "Chemical Engineering Assistant",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/01G/mos/28",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "01H",
+    "title": "Biological Sciences Assistant",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/01H/mos/29",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02A",
+    "title": "Army Bandperson",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02A/mos/49",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02A",
+    "title": "Combat Arms Generalist",
+    "rank": "Officer",
+    "url": "https://mosdb.com/army/02A/mos/50",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02B",
+    "title": "Cornet or Trumpet Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02B/mos/51",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02B",
+    "title": "Infantry/Armor Immaterial",
+    "rank": "Officer",
+    "url": "https://mosdb.com/army/02B/mos/52",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02C",
+    "title": "Baritone or Euphonium Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02C/mos/53",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02C",
+    "title": "Infantry/Armor/Field Artillery/Engineer Immaterial",
+    "rank": "Officer",
+    "url": "https://mosdb.com/army/02C/mos/54",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02D",
+    "title": "French Horn Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02D/mos/55",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02E",
+    "title": "Trombone Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02E/mos/56",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02F",
+    "title": "Tuba Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02F/mos/57",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02G",
+    "title": "Flute or Piccolo Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02G/mos/58",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02H",
+    "title": "Oboe Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02H/mos/59",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02J",
+    "title": "Clarinet Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02J/mos/60",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02K",
+    "title": "Bassoon Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02K/mos/61",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02L",
+    "title": "Saxophone Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02L/mos/62",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02M",
+    "title": "Percussion Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02M/mos/63",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02N",
+    "title": "Keyboard Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02N/mos/64",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02N",
+    "title": "Piano Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02N/mos/65",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02P",
+    "title": "Brass Group Leader",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02P/mos/66",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02Q",
+    "title": "Woodwind Group Leader",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02Q/mos/67",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02R",
+    "title": "Percussion Group Leader",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02R/mos/68",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02S",
+    "title": "Special Bandmember",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02S/mos/69",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02T",
+    "title": "Guitar Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02T/mos/70",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02U",
+    "title": "Electric Bass Player",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02U/mos/71",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "02Z",
+    "title": "Bands Senior Sergeant",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/02Z/mos/72",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "03B",
+    "title": "Performing Arts Specialist",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/03B/mos/86",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "03C",
+    "title": "Physical Activities Specialist",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/03C/mos/87",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "03D",
+    "title": "Arts and Crafts Specialist",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/03D/mos/88",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "03Z",
+    "title": "Special Services Senior Sergeant",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/03Z/mos/89",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "04B",
+    "title": "Translator-Interpreter",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/04B/mos/100",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "05A",
+    "title": "Army Medical Department (AMEDD) Immaterial",
+    "rank": "Officer",
+    "url": "https://mosdb.com/army/05A/mos/108",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "05B",
+    "title": "Radio Operator",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/05B/mos/109",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "05C",
+    "title": "Radio Teletype Operator",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/05C/mos/110",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "05D",
+    "title": "Electronic Warfare/Signal Intelligence Emitter Identifier/Locator",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/05D/mos/111",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  },
+  {
+    "code": "05E",
+    "title": "Voice Radio Operator",
+    "rank": "Enlisted",
+    "url": "https://mosdb.com/army/05E/mos/112",
+    "description": "",
+    "careerField": "Other",
+    "idealTraits": [
+      "Adaptability",
+      "Team player",
+      "Physical fitness"
+    ]
+  }
+]

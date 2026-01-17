@@ -1,0 +1,340 @@
+// Caprica AI - Talent Matching Platform Schema
+// Using SQLite for local development, easily swappable to PostgreSQL for production
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// ============================================
+// NextAuth Models (Social Sign-On)
+// ============================================
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String?
+  access_token      String?
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String?
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String?   @unique
+  emailVerified DateTime?
+  image         String?
+  role          String    @default("RECRUITER") // ADMIN, RECRUITER, HIRING_MANAGER, VIEWER
+  accounts      Account[]
+  sessions      Session[]
+  organizationId String?
+  organization   Organization? @relation(fields: [organizationId], references: [id])
+  createdAt     DateTime  @default(now())
+  
+  // Veteran Profile Fields
+  mos             String?   // Primary MOS code
+  branch          String?   // Army, Navy, Air Force, Marines, Coast Guard, Space Force
+  rank            String?   // E-1 to O-10
+  yearsServed     Int?      // Years of service
+  clearanceLevel  String?   // None, Secret, TS, TS/SCI
+  separationDate  DateTime? // ETS date
+  
+  // Preferences
+  preferredLocations String? // JSON array of locations
+  remotePreference   String? // remote, hybrid, onsite, any
+  salaryExpectation  Int?    // Minimum salary
+  
+  // Assessment Results (stored as JSON)
+  asvabResults       String? // JSON: { gt: 110, ar: 55, wk: 52, ... }
+  skillsAssessment   String? // JSON: { leadership: 8, technical: 7, ... }
+  
+  // Resume Data
+  resumeData         String? // JSON: parsed resume information
+  resumeFile         String? // Path to uploaded resume
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+// UserRole values: ADMIN, RECRUITER, HIRING_MANAGER, VIEWER (stored as String for SQLite)
+
+// ============================================
+// Organization & Multi-Tenancy
+// ============================================
+
+model Organization {
+  id          String     @id @default(cuid())
+  name        String
+  slug        String     @unique
+  logo        String?
+  settings    String?    // JSON settings
+  users       User[]
+  positions   Position[]
+  candidates  Candidate[]
+  assessments Assessment[]
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+}
+
+// ============================================
+// Position Catalog
+// ============================================
+
+model Position {
+  id              String   @id @default(cuid())
+  organizationId  String
+  organization    Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  
+  // Basic Info
+  code            String?  // e.g., "MOS-11B" or "ENG-001"
+  title           String
+  description     String   // Rich text description
+  department      String?
+  location        String?
+  
+  // Requirements
+  requirements    String   // Rich text requirements
+  skills          String   // JSON array of skill objects
+  experienceMin   Int      @default(0)
+  experienceMax   Int?
+  educationLevel  String?  // e.g., "Bachelor's", "High School"
+  
+  // Compensation
+  salaryMin       Int?
+  salaryMax       Int?
+  salaryType      String?  // "hourly", "annual"
+  
+  // Matching weights (how important each factor is for this position)
+  matchWeights    String?  // JSON: { skills: 0.4, experience: 0.3, aptitude: 0.3 }
+  
+  // Status
+  isActive        Boolean  @default(true)
+  openings        Int      @default(1)
+  
+  // Relations
+  matches         Match[]
+  requiredAssessments PositionAssessment[]
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@index([organizationId])
+}
+
+model PositionAssessment {
+  id           String     @id @default(cuid())
+  positionId   String
+  position     Position   @relation(fields: [positionId], references: [id], onDelete: Cascade)
+  assessmentId String
+  assessment   Assessment @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+  minScore     Float?     // Minimum required score (0-100)
+  weight       Float      @default(1.0) // Weight in matching algorithm
+  
+  @@unique([positionId, assessmentId])
+}
+
+// ============================================
+// Candidates
+// ============================================
+
+model Candidate {
+  id              String   @id @default(cuid())
+  organizationId  String
+  organization    Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  
+  // Basic Info
+  email           String
+  name            String
+  phone           String?
+  resumeUrl       String?
+  
+  // Profile (from chatbot + manual entry)
+  skills          String?  // JSON array of skills
+  experienceYears Int?
+  education       String?  // JSON: { level, field, school }
+  preferences     String?  // JSON: location, salary, remote, etc.
+  
+  // Chatbot Data
+  chatbotSessionId String? @unique
+  chatbotData      String? // JSON: Full conversation analysis
+  chatbotCompletedAt DateTime?
+  
+  // Status
+  status          String   @default("NEW") // NEW, CHATBOT_COMPLETE, ASSESSING, ASSESSED, MATCHED, INTERVIEWING, HIRED, REJECTED
+  source          String?  // Where they came from
+  notes           String?
+  
+  // Relations
+  assessmentResults AssessmentResult[]
+  matches           Match[]
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@unique([organizationId, email])
+  @@index([organizationId])
+}
+
+// ============================================
+// Modular Assessment System
+// ============================================
+
+model Assessment {
+  id              String   @id @default(cuid())
+  organizationId  String
+  organization    Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  
+  // Assessment Meta
+  name            String
+  description     String?
+  category        String   // e.g., "cognitive", "technical", "personality", "situational"
+  
+  // Configuration
+  timeLimit       Int?     // Minutes, null = unlimited
+  shuffleQuestions Boolean @default(false)
+  showResults     Boolean  @default(false) // Show results to candidate
+  passingScore    Float?   // Minimum to pass (0-100)
+  
+  // Questions stored as flexible JSON
+  questions       String   // JSON array of QuestionConfig objects
+  
+  // Scoring configuration
+  scoringConfig   String?  // JSON: how to calculate scores
+  
+  // Status
+  isActive        Boolean  @default(true)
+  isTemplate      Boolean  @default(false) // Can be copied by other orgs
+  
+  // Relations
+  results         AssessmentResult[]
+  positions       PositionAssessment[]
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@index([organizationId])
+}
+
+// Question Config JSON Structure:
+// {
+//   id: string,
+//   type: "multiple_choice" | "multi_select" | "text" | "rating" | "ranking" | "scenario",
+//   category: string,  // For scoring by category
+//   question: string,
+//   options?: { id: string, text: string, points?: number }[],
+//   correctAnswer?: string | string[],  // For objective questions
+//   points: number,
+//   timeLimit?: number,  // Per-question time limit
+//   required: boolean
+// }
+
+model AssessmentResult {
+  id            String     @id @default(cuid())
+  candidateId   String
+  candidate     Candidate  @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  assessmentId  String
+  assessment    Assessment @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+  
+  // Results
+  answers       String     // JSON: { questionId: answer }
+  score         Float      // Overall score 0-100
+  categoryScores String?   // JSON: { category: score }
+  timeSpent     Int?       // Seconds
+  
+  // Status
+  status        String     @default("IN_PROGRESS") // IN_PROGRESS, COMPLETED, TIMED_OUT
+  startedAt     DateTime   @default(now())
+  completedAt   DateTime?
+  
+  createdAt     DateTime   @default(now())
+  
+  @@unique([candidateId, assessmentId])
+  @@index([candidateId])
+}
+
+// ============================================
+// AI Matching
+// ============================================
+
+model Match {
+  id          String   @id @default(cuid())
+  candidateId String
+  candidate   Candidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  positionId  String
+  position    Position  @relation(fields: [positionId], references: [id], onDelete: Cascade)
+  
+  // Match Scores
+  score       Float     // Overall match score 0-100
+  factors     String    // JSON: { skills: 85, experience: 70, aptitude: 90, preference: 75 }
+  reasoning   String?   // AI-generated explanation
+  
+  // Status Flow
+  status      String    @default("SUGGESTED") // SUGGESTED, REVIEWED, SHORTLISTED, INTERVIEWING, OFFERED, HIRED, REJECTED
+  
+  // Recruiter Actions
+  recruiterNotes String?
+  reviewedAt    DateTime?
+  reviewedBy    String?  // User ID
+  
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  
+  @@unique([candidateId, positionId])
+  @@index([candidateId])
+  @@index([positionId])
+}
+
+// ============================================
+// Job Alert Subscriptions
+// ============================================
+
+model JobAlertSubscription {
+  id              String   @id @default(cuid())
+  email           String   @unique
+  name            String?
+  
+  // Matching preferences
+  mos             String?  // Primary MOS code
+  branch          String?  // Army, Navy, Air Force, etc.
+  clearanceLevel  String?  // None, Secret, TS/SCI
+  preferredLocations String? // JSON array of locations
+  salaryMin       Int?
+  remoteOnly      Boolean  @default(false)
+  
+  // Subscription settings
+  frequency       String   @default("weekly") // daily, weekly
+  isActive        Boolean  @default(true)
+  
+  // Tracking
+  lastSentAt      DateTime?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
