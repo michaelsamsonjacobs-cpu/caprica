@@ -188,6 +188,7 @@ ${messages.slice(-4).map(m => `${m.role}: ${m.content}`).join('\n')}
 Return ONLY valid JSON, no markdown or explanation:`;
 
     try {
+        const client = getClient();
         const response = await client.chat.completions.create({
             model: MODEL,
             messages: [{ role: 'user', content: extractionPrompt }],
@@ -257,6 +258,7 @@ export async function generateAgentResponse(
     ];
 
     try {
+        const client = getClient();
         const response = await client.chat.completions.create({
             model: MODEL,
             messages: conversationMessages,
