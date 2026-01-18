@@ -4,6 +4,63 @@
 import OpenAI from 'openai';
 import { ParsedResume } from './resume-parser';
 
+interface Position {
+    title: string;
+    description?: string;
+    requiredSkills: string[];
+    preferredSkills?: string[];
+    requirements?: string;
+}
+
+interface TailoredResume {
+    summary: string;
+    highlightedSkills: string[];
+    tailoredExperience: {
+        title: string;
+        company: string;
+        duration: string;
+        bullets: string[];
+    }[];
+    recommendations: string[];
+    keywordsToAdd: string[];
+    matchScore: number;
+}
+
+const TAILORING_PROMPT = `You are an expert resume writer who helps candidates tailor their resumes to specific job positions.
+
+Given a candidate's resume data and a target job position, create a tailored version that:
+1. Writes a new professional summary that aligns with the target role
+2. Identifies which skills to highlight most prominently
+3. Rewrites experience bullet points to emphasize relevant accomplishments
+4. Suggests keywords from the job posting to include
+5. Provides recommendations for improvements
+
+Return a JSON object with this structure:
+{
+  "summary": "A compelling 2-3 sentence summary tailored to the role",
+  "highlightedSkills": ["skill1", "skill2", ...],  // Top 6-8 most relevant skills
+  "tailoredExperience": [
+    {
+      "title": "Job title",
+      "company": "Company",
+      "duration": "Dates",
+      "bullets": ["Achievement focused bullet using action verbs...", ...]
+    }
+  ],
+  "recommendations": ["Suggestion for improvement 1", ...],
+  "keywordsToAdd": ["keyword1", "keyword2", ...],
+  "matchScore": 85  // 0-100 estimated match after tailoring
+}
+
+Guidelines:
+- Use strong action verbs (Led, Developed, Implemented, Achieved, etc.)
+- Quantify achievements where possible (%, $, numbers)
+- Mirror language from the job posting
+- Keep bullets concise (1-2 lines each)
+- Focus on transferable skills if direct experience is lacking
+
+Return ONLY valid JSON, no markdown.`;
+
 export async function tailorResume(
     resume: ParsedResume,
     position: Position
@@ -69,6 +126,10 @@ export async function generateCoverLetter(
     position: Position,
     companyName?: string
 ): Promise<string> {
+    const openai = new OpenAI({
+        apiKey: process.env.OPENAI_API_KEY,
+    });
+
     const prompt = `Write a professional cover letter for this candidate applying to the position.
 
 Candidate:
