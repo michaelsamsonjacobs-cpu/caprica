@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 
@@ -28,7 +28,7 @@ interface MOSInfo {
     benefits: string[];
 }
 
-export default function PositionDetailPage() {
+function PositionContent() {
     const searchParams = useSearchParams();
     const code = searchParams.get('code');
     const [mosInfo, setMosInfo] = useState<MOSInfo | null>(null);
@@ -38,6 +38,8 @@ export default function PositionDetailPage() {
     useEffect(() => {
         if (code) {
             loadMOSInfo(code);
+        } else {
+            setLoading(false);
         }
     }, [code]);
 
@@ -218,10 +220,10 @@ export default function PositionDetailPage() {
                                 <div>
                                     <div className="text-sm text-gray-500 mb-1">Physical Demand</div>
                                     <div className={`font-semibold ${mosInfo.physicalDemand === 'Very High' || mosInfo.physicalDemand === 'Extreme'
-                                            ? 'text-red-600'
-                                            : mosInfo.physicalDemand === 'High'
-                                                ? 'text-orange-600'
-                                                : 'text-green-600'
+                                        ? 'text-red-600'
+                                        : mosInfo.physicalDemand === 'High'
+                                            ? 'text-orange-600'
+                                            : 'text-green-600'
                                         }`}>
                                         {mosInfo.physicalDemand}
                                     </div>
@@ -295,5 +297,17 @@ export default function PositionDetailPage() {
                 </div>
             </main>
         </div>
+    );
+}
+
+export default function PositionDetailPage() {
+    return (
+        <Suspense fallback={
+            <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+                <div className="animate-spin rounded-full h-12 w-12 border-4 border-[#1073E8] border-t-transparent"></div>
+            </div>
+        }>
+            <PositionContent />
+        </Suspense>
     );
 }
