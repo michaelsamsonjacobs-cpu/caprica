@@ -4,14 +4,22 @@ import OpenAI from 'openai';
 const isOllama = process.env.AI_PROVIDER === 'ollama';
 const isGroq = process.env.AI_PROVIDER === 'groq';
 
-const client = new OpenAI({
-    apiKey: isGroq ? process.env.GROQ_API_KEY :
+const getClient = () => {
+    const apiKey = isGroq ? process.env.GROQ_API_KEY :
         isOllama ? 'ollama' :
-            process.env.OPENAI_API_KEY,
-    baseURL: isGroq ? 'https://api.groq.com/openai/v1' :
-        isOllama ? 'http://localhost:11434/v1' :
-            undefined,
-});
+            process.env.OPENAI_API_KEY;
+
+    if (!apiKey) {
+        throw new Error("Missing API Key");
+    }
+
+    return new OpenAI({
+        apiKey,
+        baseURL: isGroq ? 'https://api.groq.com/openai/v1' :
+            isOllama ? 'http://localhost:11434/v1' :
+                undefined,
+    });
+};
 
 const MODEL = isGroq ? 'llama-3.3-70b-versatile' :
     isOllama ? 'llama3' :
